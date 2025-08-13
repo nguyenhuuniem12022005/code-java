@@ -1,0 +1,1 @@
+{"name":"Local: SoTamPhan","url":"d:\\code java\\code java\\SoTamPhan.java","tests":[{"id":1755015359710,"input":"3\n1214\n10210221\n22222222","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\SoTamPhan.java","group":"local","local":true}
