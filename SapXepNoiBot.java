@@ -15,20 +15,25 @@ public class SapXepNoiBot {
             boolean swapped = false;
             for (int j = 0; j < n - 1 - i; j++) {
                 if (arr[j] > arr[j + 1]) {
+                    // Hoán đổi vị trí
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                     swapped = true;
                 }
             }
+            if (!swapped) {
+                break;
+            }
+            // In ra trạng thái mảng sau mỗi bước
             System.out.printf("Buoc %d: ", i + 1);
             for (int k = 0; k < n; k++) {
                 System.out.print(arr[k] + " ");
             }
             System.out.println();
-            if (!swapped) {
-                break;
-            }
+            
+            // Nếu không có hoán đổi nào trong lần duyệt, dãy đã sắp xếp
+
         }
         
         scanner.close();

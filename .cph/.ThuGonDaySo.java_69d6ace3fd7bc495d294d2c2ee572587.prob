@@ -1,0 +1,1 @@
+{"name":"Local: ThuGonDaySo","url":"d:\\code java\\code java\\ThuGonDaySo.java","tests":[{"id":1755148697782,"input":"10\n1 5 5 8 6 4 3 5 9 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\ThuGonDaySo.java","group":"local","local":true}
