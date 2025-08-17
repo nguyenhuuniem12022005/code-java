@@ -1,0 +1,1 @@
+{"name":"Local: Hieu2SoNguyenLon","url":"d:\\code java\\code java\\Hieu2SoNguyenLon.java","tests":[{"id":1755330545122,"input":"2\n978\n12977\n100\n1000000","output":"11999\n0999900"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\Hieu2SoNguyenLon.java","group":"local","local":true}
