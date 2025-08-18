@@ -1,0 +1,1 @@
+{"name":"Local: TachDoiVaTinhTong","url":"d:\\code java\\code java\\TachDoiVaTinhTong.java","tests":[{"id":1755493108066,"input":"123456","output":"579\n84\n12\n3"},{"id":1755493131385,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\TachDoiVaTinhTong.java","group":"local","local":true}
