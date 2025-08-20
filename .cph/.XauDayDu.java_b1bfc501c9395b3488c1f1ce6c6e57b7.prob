@@ -1,0 +1,1 @@
+{"name":"Local: XauDayDu","url":"d:\\code java\\code java\\XauDayDu.java","tests":[{"id":1755593435725,"input":"2\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n4\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n24","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\XauDayDu.java","group":"local","local":true}
