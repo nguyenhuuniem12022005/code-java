@@ -3,7 +3,7 @@ public class HinhSao{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        int [] degree=new int [t];
+        int [] degree=new int [t+1];
         for (int i=0;i<t-1;i++){
             int u=sc.nextInt();
             int v=sc.nextInt();
@@ -21,9 +21,9 @@ public class HinhSao{
 
         }
         if (tam_degree==1 && la_degree==t-1) {
-            System.out.println("YES");
+            System.out.println("Yes");
         } else {
-            System.out.println("NO");
+            System.out.println("No");
         }
     }
 }
