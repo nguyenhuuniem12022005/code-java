@@ -4,7 +4,7 @@ class WordSet{
     private Set<String> words;
     public WordSet(String s){
         words = new TreeSet<>();
-        String[] wordarray = s.split("\\s+");
+        String[] wordarray = s.toLowerCase().split("\\s+");
         words.addAll(Arrays.asList(wordarray));
 
     }
