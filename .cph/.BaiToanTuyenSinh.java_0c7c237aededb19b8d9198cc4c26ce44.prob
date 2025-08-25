@@ -1,0 +1,1 @@
+{"name":"Local: BaiToanTuyenSinh","url":"d:\\code java\\code java\\BaiToanTuyenSinh.java","tests":[{"id":1756048162508,"input":"KV2A002\nHoang Thanh Tuan\n5\n6\n5","output":"KV2A002 Hoang Thanh Tuan 1 21 TRUOT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\BaiToanTuyenSinh.java","group":"local","local":true}
