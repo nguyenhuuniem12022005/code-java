@@ -1,0 +1,1 @@
+{"name":"Local: baitap1","url":"d:\\code java\\code java\\baitap1.java","tests":[{"id":1757035706742,"input":"5 \n7\n9 \n10 \n13 \n100","output":"47"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code java\\code java\\baitap1.java","group":"local","local":true}
