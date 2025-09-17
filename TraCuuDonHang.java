@@ -12,7 +12,7 @@ class DonHang{
         this.sothutu=madonhang.substring(1,4);
         char maloai=madonhang.charAt(4);
         long tongtien = dongia * soluong;
-        if (maloai =="1"){
+        if (maloai =='1'){
             this.giamgia=(long) (tongtien * 0.5);
         } else {
             this.giamgia=(long) (tongtien * 0.3);
