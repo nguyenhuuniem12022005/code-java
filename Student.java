@@ -1,0 +1,19 @@
+public class Student extends Person{
+    private double gpa;
+    public Student(String name, int age,String address, double gpa) {
+        super(name, age,address);
+        setGpa(gpa);
+    }
+    public double getGpa() {
+        return gpa;
+    }
+    public void setGpa(double gpa) {
+        if (gpa >=0 && gpa <=4.0){
+        this.gpa = gpa;
+        }
+    }
+    public void display(){
+        super.display();
+        System.out.println("GPA: "+ gpa); 
+    }
+}
